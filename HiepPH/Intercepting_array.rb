@@ -16,7 +16,6 @@ def count_unique_numbers(array1, array2)
 
   result = counts.select { |_, count| count >= 2 }.keys
 
-  result
 end
 
 # Main program flow
