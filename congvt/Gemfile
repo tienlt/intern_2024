@@ -1,8 +1,0 @@
-source 'https://rubygems.org'
-
-gem 'csv', require: false
-gem 'faker'
-gem 'pg'
-gem 'rspec'
-gem 'rubocop'
-gem 'ruby-lsp'
